@@ -1,4 +1,4 @@
-const URL = 'http://localhost:8080/jpareststarter';
+const URL = "https://younes.club/eksamen"
 
  export default URL; 
 
